@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 20h | 6 |
+| Week 4 | Tier 1 | 24.5h | 6 |
 
 ## Contents
 
@@ -18,7 +18,7 @@
 2. [2026-10-30: ![Screenshot 2026-11-01 073854](https://halflife.hackclub-assets.com/sessions/1ehOJOOw0YZbStfPe78xcPX0Zaqn1lEZ/e1fd74f829e8ad0e34f7b949539ec04434fb6a4ac51c7977fbe619a9a4bda468.png)](#2026-10-30-screenshot-2026-11-01-073854httpshalflifehackclub)
 3. [2026-11-01: I worked on the  PCB layout. it took me bit a time to fix all the errors and i to help me and it worked. Then, i did the layout and stuff. Now, i am working ont eh wires  which caused me problems beca](#2026-11-01-i-worked-on-the-pcb-layout-it-took-me-bit-a-time-)
 4. [2026-11-01: I worked on finishing the wires. Then i had 5 errors i had to do.  it took a bit time becuase i couldn't the hidden  tiny small wire that](#2026-11-01-i-worked-on-finishing-the-wires-then-i-had-5-erro)
-5. [2026-11-01: I finished all the stuff. I added all the 3d models which were not there in the PCB. Then, i  did the gerber files. Then, i did Arduino. Luckily i had all the stuff installed due to the previous proje](#2026-11-01-i-finished-all-the-stuff-i-added-all-the-3d-model)
+5. [2026-11-01: ![Screenshot 2026-11-01 185817](https://halflife.hackclub-assets.com/sessions/1ehOJOOw0YZbStfPe78xcPX0Zaqn1lEZ/819f7fc0f1e5ee50bd6bd0413ad9fad17e28f4d35a140cc9404310980b78dbd1.png)](#2026-11-01-screenshot-2026-11-01-185817httpshalflifehackclub)
 6. [2026-11-01: Actually, i spent some time while orking on the porject during the week. i started searching out the parts that i need for the project. i took me a lot of time to find even though i used ai to finding](#2026-11-01-actually-i-spent-some-time-while-orking-on-the-po)
 
 ## Design
@@ -73,9 +73,23 @@ I worked on finishing the wires. Then i had 5 errors i had to do.  it took a bit
 
  i somehow put but figured. Meanwhile, i9 wanted to take break from the building, instead i worked on creating the repository on GitHub and connected and typed in all the stuff
 
-### 2026-11-01: I finished all the stuff. I added all the 3d models which were not there in the PCB. Then, i  did the gerber files. Then, i did Arduino. Luckily i had all the stuff installed due to the previous proje
+### 2026-11-01: ![Screenshot 2026-11-01 185817](https://halflife.hackclub-assets.com/sessions/1ehOJOOw0YZbStfPe78xcPX0Zaqn1lEZ/819f7fc0f1e5ee50bd6bd0413ad9fad17e28f4d35a140cc9404310980b78dbd1.png)
 
-**2h**
+**6.5h**
+
+![Screenshot 2026-11-01 185817](https://halflife.hackclub-assets.com/sessions/1ehOJOOw0YZbStfPe78xcPX0Zaqn1lEZ/819f7fc0f1e5ee50bd6bd0413ad9fad17e28f4d35a140cc9404310980b78dbd1.png)
+
+![Screenshot 2026-11-01 190621](https://halflife.hackclub-assets.com/sessions/1ehOJOOw0YZbStfPe78xcPX0Zaqn1lEZ/3cafb07e12e564cfdc21d786c0ea777d7f53f1b971e7856144165c8d851f76d5.png)
+
+![Screenshot 2026-11-01 190628](https://halflife.hackclub-assets.com/sessions/1ehOJOOw0YZbStfPe78xcPX0Zaqn1lEZ/a648bf189f20715d976230205ad71b21725ef533c7f90029b08cbe4af19aa6ed.png)
+
+![Screenshot 2026-11-01 190643](https://halflife.hackclub-assets.com/sessions/1ehOJOOw0YZbStfPe78xcPX0Zaqn1lEZ/b28241c8bd6eb474757dd84a06a9f6ea609abb34e8f042c2395cc2fca9c780f2.png)
+
+![Screenshot 2026-11-01 190651](https://halflife.hackclub-assets.com/sessions/1ehOJOOw0YZbStfPe78xcPX0Zaqn1lEZ/de0941a1e6efa28cadf7fd332a40a7c486601df440275f4b1654ac3e93c6ecf3.png)
+
+![Screenshot 2026-11-01 190701](https://halflife.hackclub-assets.com/sessions/1ehOJOOw0YZbStfPe78xcPX0Zaqn1lEZ/619936431777a52261c9d0be0524b3a699527c0fd02ee9e69c9ebcb6ab32ea25.png)
+
+![Screenshot 2026-11-01 200428](https://halflife.hackclub-assets.com/sessions/1ehOJOOw0YZbStfPe78xcPX0Zaqn1lEZ/36d39b6260562a75929e3a0dde8aa50ff681933c62f877f39db3c25235a3546d.png)
 
 I finished all the stuff. I added all the 3d models which were not there in the PCB. Then, i  did the gerber files. Then, i did Arduino. Luckily i had all the stuff installed due to the previous project that i did. Fia
 
